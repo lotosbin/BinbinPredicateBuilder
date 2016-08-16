@@ -2482,15 +2482,15 @@
       },
       "Binbin.Linq.PredicateBuilder/2.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v1.0",
+        "framework": ".NETStandard,Version=v1.6",
         "dependencies": {
-          "Microsoft.NETCore.App": "1.0.0"
+          "NETStandard.Library": "1.6.0"
         },
         "compile": {
-          "netcoreapp1.0/Binbin.Linq.PredicateBuilder.dll": {}
+          "netstandard1.6/Binbin.Linq.PredicateBuilder.dll": {}
         },
         "runtime": {
-          "netcoreapp1.0/Binbin.Linq.PredicateBuilder.dll": {}
+          "netstandard1.6/Binbin.Linq.PredicateBuilder.dll": {}
         }
       }
     }
