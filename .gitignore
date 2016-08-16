@@ -1,4 +1,5 @@
-Binbin.Linq.PredicateBuilder/obj/
-Binbin.Linq.PredicateBuilder/bin/
+[Bb]in
+[Oo]bj
 *.suo
 *.nupkg
+.vs/
