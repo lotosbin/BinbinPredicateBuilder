@@ -4,7 +4,7 @@ Predicate Builder
 
 [![Join the chat at https://gitter.im/lotosbin/BinbinPredicateBuilder](https://badges.gitter.im/lotosbin/BinbinPredicateBuilder.svg)](https://gitter.im/lotosbin/BinbinPredicateBuilder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![NuGet version](https://badge.fury.io/nu/BinbinPredicateBuilder.svg)](https://badge.fury.io/nu/BinbinPredicateBuilder)
+[![NuGet version](https://badge.fury.io/nu/Binbin.Linq.PredicateBuilder.svg)](https://badge.fury.io/nu/Binbin.Linq.PredicateBuilder)
 
 ## 安装
 ```
